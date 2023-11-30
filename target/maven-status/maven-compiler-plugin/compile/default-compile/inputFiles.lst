@@ -1,0 +1,12 @@
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/model/TurnoMedico.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/model/Medico.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/model/Perro.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/model/Mascota.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/repository/exceptions/NonexistentEntityException.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/repository/MedicoJpaController.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/repository/exceptions/IllegalOrphanException.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/repository/MascotaJpaController.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/model/Gato.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/repository/exceptions/PreexistingEntityException.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/repository/TurnoMedicoJpaController.java
+/media/juan/DATOS1/Plantillas/04_ArgProg/02_SegundaEtapa/TpVeterinaria/src/main/java/com/academy/tpveterinaria/TpVeterinaria.java
