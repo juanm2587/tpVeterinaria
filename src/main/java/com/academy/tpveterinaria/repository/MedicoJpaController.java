@@ -15,6 +15,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
+//creacion de metodo que inicia la conexion a la BD.
 public class MedicoJpaController implements Serializable {
   public MedicoJpaController() {
     emf = Persistence.createEntityManagerFactory("tpVeterinariaPU");
